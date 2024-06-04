@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "2",
+      "category_id": "1",
+      "productName": "Pizza Thịt Bằm",
+      "description": "Phô mai, Thịt",
+      "price": "212000"
+    },
+    {
+      "id": "3",
+      "category_id": "1",
+      "productName": "Pizza Cua Hoàng Đế",
+      "description": "Phô mai, Cua, Sò",
+      "price": "212000"
+    },
+    {
+      "id": "4",
+      "category_id": "2",
+      "productName": "Pizza Chay",
+      "description": "Phô mai, Thịt giả bò",
+      "price": "182000"
+    },
+    {
+      "id": "5",
+      "category_id": "2",
+      "productName": "Pizza Trứng Muối Pate",
+      "description": "Phô mai, Trứng muối, Pate Cột đèn",
+      "price": "255000"
+    },
+    {
+      "id": "6",
+      "category_id": "2",
+      "productName": "Pizza Chay",
+      "description": "Phô mai, Thịt giả bò",
+      "price": "182000"
+    },
+    {
+      "id": "7",
+      "category_id": "3",
+      "productName": "Pizza Gà Nướng",
+      "description": "Phô mai, Gà",
+      "price": "182000"
+    },
+    {
+      "id": "8",
+      "category_id": "3",
+      "productName": "Pizza Trứng Cà Chua",
+      "description": "Phô mai, Trứng cà chua",
+      "price": "182000"
+    },
+    {
+      "id": "9",
+      "category_id": "3",
+      "productName": "Pizza Bacon Súc Sích",
+      "description": "Phô mai, thịt heo",
+      "price": "182000"
+    },
+    {
+      "id": "10",
+      "category_id": "4",
+      "productName": "Pizza Trứng Cá",
+      "description": "Phô mai, trứng cá tuyết",
+      "price": "182000"
+    },
+    {
+      "id": "11",
+      "category_id": "4",
+      "productName": "Pizza Pate Sốt Cà Chua",
+      "description": "Phô mai, Thịt giả bò",
+      "price": "182000"
+    },
+    {
+      "id": "12",
+      "category_id": "4",
+      "productName": "Pizza Bò Nướng",
+      "description": "Phô mai, Thịt giả bò",
+      "price": "182000"
+    },
+    {
+      "id": "28ea",
+      "productName": "Phô mai cá ngừ",
+      "category_id": "4",
+      "description": "dá ngừ ",
+      "price": "243.000"
+    }
+  ]
+}
